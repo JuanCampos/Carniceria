@@ -294,13 +294,13 @@ body {
     display: inline-block;
     font-size: 16px;
     color: #DFDDE0;
-    margin: 10px;
+    padding-bottom: 15px;
 }
-
-
-.socials-2 img{
+.link ul li a img{ 
     width: 20px;
     height: 20px;
+    align-items: center;
+    margin-right: 10px;
 }
 
 @media (max-width: 991px){
